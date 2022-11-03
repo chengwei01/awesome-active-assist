@@ -27,6 +27,7 @@ Recommendations and insights:
 ## Videos, articles, podcasts, slides
 
 Google Cloud Next breakout presentations:
+* 🎬 [Playlist for all Google Cloud Next'22 Active Assist Related Sessions](https://cloud.withgoogle.com/next/playlists?playlist=G-ad0303e2d4b07ba4) (October 2022)
 * 🎬 [How Target has operationalized policy intelligence tools](https://youtu.be/uI_lYOtLkRQ) (October 2021)
 * 🎬 [Meet Active Assist: Cloud is complex. Managing it shouldn't be.](https://www.youtube.com/watch?v=A2tvDIfevos) (July 2020)
 * 🎬 [Uber presents: Minimizing permissions using IAM Recommender](https://www.youtube.com/watch?v=0MUaNoyGgNw) (July 2020)
@@ -34,6 +35,8 @@ Google Cloud Next breakout presentations:
 * 🎬 [Policy Intelligence: Applying Machine Learning and Analytics to Security in GCP](https://www.youtube.com/watch?v=F45e9Nle0oU)(April 2019)
 
 Blogs, articles:
+* 📰 [How ML-fueled recommendations help developers optimize security, price-performance, and carbon reduction](https://cloud.google.com/blog/products/management-tools/exciting-updates-on-active-assist-from-google-cloud-next22) (October 2022)
+* 📰 [Proactive Database Wellness with Active Assist: Introducing additional Cloud SQL recommenders](https://cloud.google.com/blog/products/databases/proactive-database-wellness-with-active-assist) (October 2022)
 * 📰 [Make the most of your cloud deployment with Active Assist](https://cloud.google.com/blog/topics/developers-practitioners/make-most-your-cloud-deployment-active-assist) (August 2022)
 * 📰 [Quick Access: Intelligence behind the Google Cloud’s new homepage](https://cloud.google.com/blog/topics/developers-practitioners/quick-access-intelligence-behind-google-clouds-new-homepage) (July 2022)
 * 📰 [Introducing Active Assist recommendations for BigQuery capacity planning](https://cloud.google.com/blog/products/data-analytics/google-cloud-launches-bigquery-capacity-recommendations) (April 2022)
