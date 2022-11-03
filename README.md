@@ -27,6 +27,7 @@ Recommendations and insights:
 ## Videos, articles, podcasts, slides
 
 Google Cloud Next breakout presentations:
+* 🎬 [Optimize with Active Assist](https://goo.gle/OptimizeWithActiveAssist) (October 2022)
 * 🎬 [Playlist for all Google Cloud Next'22 Active Assist Related Sessions](https://cloud.withgoogle.com/next/playlists?playlist=G-ad0303e2d4b07ba4) (October 2022)
 * 🎬 [How Target has operationalized policy intelligence tools](https://youtu.be/uI_lYOtLkRQ) (October 2021)
 * 🎬 [Meet Active Assist: Cloud is complex. Managing it shouldn't be.](https://www.youtube.com/watch?v=A2tvDIfevos) (July 2020)
